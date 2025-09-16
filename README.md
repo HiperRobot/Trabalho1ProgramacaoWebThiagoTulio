@@ -21,6 +21,5 @@ O sistema de postagens possui dois tipos de usuários com diferentes níveis de 
 ### Administrador
 | Permissão | Descrição |
 |-----------|-----------|
-| Visualização | Possui visão global de todos os posts |
 | Edição | Não pode editar posts de outros usuários |
 | Exclusão | Pode excluir qualquer post do sistema |
