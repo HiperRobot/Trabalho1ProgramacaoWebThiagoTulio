@@ -6,24 +6,21 @@
 - **Thiago Henriques Niedo Pinto** (2211171)
 - **Tulio Gomes Vuolo** (1920306)
 
-Regras de Permissões e Acesso
+### Regras de Permissões e Acesso
 
-O sistema de postagens terá dois tipos de usuários:
+O sistema de postagens possui dois tipos de usuários com diferentes níveis de acesso:
 
-Usuário comum:
+### Usuário Comum
+| Permissão | Descrição |
+|-----------|-----------|
+| Criar | Pode criar novos posts |
+| Editar | Pode editar apenas seus próprios posts |
+| Excluir | Pode excluir apenas seus próprios posts |
+| Restrições | Sem acesso à edição/exclusão de posts de outros usuários |
 
-Pode criar novos posts.
-
-Pode editar apenas os posts que ele mesmo criou.
-
-Pode excluir apenas os posts que ele mesmo criou.
-
-Não tem acesso aos posts de outros usuários para fins de edição ou exclusão.
-
-Administrador:
-
-Não pode editar posts de outros usuários.
-
-Pode excluir qualquer post, independentemente do autor.
-
-Possui visão global dos posts cadastrados.
+### Administrador
+| Permissão | Descrição |
+|-----------|-----------|
+| Visualização | Possui visão global de todos os posts |
+| Edição | Não pode editar posts de outros usuários |
+| Exclusão | Pode excluir qualquer post do sistema |
