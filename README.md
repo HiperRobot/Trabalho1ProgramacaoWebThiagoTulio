@@ -3,8 +3,8 @@
 ## Sistema de Postagens de Textos
 
 ### Componentes do Grupo:
-- **Thiago Henriques Niedo Pinto** (2211171)
-- **Tulio Gomes Vuolo** (1920306)
+> **Thiago Henriques Niedo Pinto** (2211171)
+> **Tulio Gomes Vuolo** (1920306)
 
 ### Regras de Permissões e Acesso
 
